@@ -11,6 +11,18 @@ Está api tem como função cadastrar Alunos dentro um banco de dados, além de 
 ## Bibliotecas
 - [Express](https://www.npmjs.com/package/express)
 - [Nodemon](https://www.npmjs.com/package/nodemon)
-
-
+## Preparo
+Comandos para ser ultilizados no console:</br>
+1- Clone o repositório.
+```
+git clone git@github.com:AdrianoDSSJ/Cadastro_de_Aluno.git
+```
+2- Após clonar o repositório, entre na pasta do repositório e instale as bibliotecas.
+```
+npm i
+```
+## Run
+```
+npm run dev
+```
 
